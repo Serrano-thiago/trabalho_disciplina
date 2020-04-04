@@ -30,4 +30,6 @@ Para configurar o git hub ao Rstudio eu tive um pouco de dificuldade. Mas acho q
 
 Outro problema foi realizar a edição do README através do RStudio. Eu não consegui fazer o push, apesar de achar que estava executando a operação certa (git push -u origin master). Não consegui entender o que houve. Por fim, realizei a edição do README através site do Git hub.
 
-Outro problema, também sem solução e que eu não consegui entender direito, foi que a aba git no RStudio não estava com as pastas que eu fiz o commit. Apesar das pastas aparecerem na minha página do Git hub. Quando eu aperto em qualquer tecla da aba Git no RStudio (push, commit etc), aparece uma mensagem de erro "nome do diretório inválido". Não consegui entender o que aconteceu.
+Outro problema, também sem solução e que eu não consegui entender direito, foi que a aba git no RStudio não estava com as pastas que eu fiz o commit. Apesar das pastas aparecerem na minha página do Git hub. Quando eu aperto em qualquer tecla da aba Git no RStudio (push, commit etc), aparece uma mensagem de erro "nome do diretório inválido". Não consegui entender o que aconteceu. Esse erro ocorreu da mesma forma quando eu tentei atualizar a pasta docs/. Eu criei o relatório em word através do markdown, porem não consegui realizar o commit desse arquivo para o site do Git hub. Apareceu uma mensagem de erro que eu não consegui entender, e tanpouco solucionar.
+
+
